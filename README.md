@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Argel</h1>
 <h3 align="center">CS Student from Western New England University</h3>
 
-- 🔭 I’m currently working on [Customer Order Parser](https://github.com/argel6767/customer-order-parser)
+- 🔭 I’m currently working on [Customer Order Parser](https://github.com/argel6767/customer-order-parser) & [Tailor.ai](https://github.com/argel6767/tailor.ai)
 
 - 🌱 I’m currently learning **Spring Boot, Reactjs, Docker**
 
