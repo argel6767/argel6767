@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **argel6767@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-alpha-mocha.vercel.app/](https://personal-portfolio-alpha-mocha.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio website!](https://personal-portfolio-alpha-mocha.vercel.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KmkfVsxIq0yMjFBrjjQji9t1FpKduIwY/view?usp=sharing](https://drive.google.com/file/d/1KmkfVsxIq0yMjFBrjjQji9t1FpKduIwY/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1LLaZv4_pAFGdc2a37lFT6GnBruBYFWKi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
