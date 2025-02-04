@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio website!](https://personal-portfolio-alpha-mocha.vercel.app/)
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1LLaZv4_pAFGdc2a37lFT6GnBruBYFWKi/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://github.com/argel6767/resume/blob/main/Argel_Hernandez_Amaya_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
