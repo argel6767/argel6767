@@ -22,3 +22,6 @@
 <br>
 
 <p style="padding-top: 10px;" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=argel6767&show_icons=true&locale=en&layout=compact" alt="argel6767" /></p>
+
+</br>
+    <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
