@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Argel</h1>
 <h3 align="center">CS Student from Western New England University</h3>
 
-- 🔭 I’m currently working on [INeedHousing](https://github.com/argel6767/i-need-housing)
+- 🔭 I’m currently working on [INeedHousing](https://github.com/argel6767/i-need-housing) & [PeakPerformance](https://github.com/argel6767/peakperformance)
 
-- 🌱 I’m currently learning **NextJs and TypeScript**
+- 🌱 I’m currently learning **NextJs & Django**
 
 - 📫 How to reach me **argel6767@gmail.com**
 
