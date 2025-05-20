@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [INeedHousing](https://github.com/argel6767/i-need-housing) & [PeakPerformance](https://github.com/argel6767/peakperformance)
 
-- 🌱 I’m currently learning **NextJs & Django**
+- 🌱 I’m currently learning **Django & React Native**
 
 - 📫 How to reach me **argel6767@gmail.com**
 
