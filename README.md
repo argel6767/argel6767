@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Argel</h1>
 <h3 align="center">CS Student from Western New England University</h3>
 
-- 🔭 I’m currently working on [INeedHousing](https://github.com/argel6767/i-need-housing) & [PeakPerformance](https://github.com/argel6767/peakperformance)
+- 🔭 I’m currently working on [ChatterBox](https://github.com/argel6767/chatter-box)
 
-- 🌱 I’m currently learning **Django & React Native**
+- 🌱 I’m currently learning **Websockets with Spring**
 
 - 📫 How to reach me **argel6767@gmail.com**
 
