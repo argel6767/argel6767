@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SimFeed](https://github.com/argel6767/sim-feed)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **FastAPI** & **AWS**
 
 - 📫 How to reach me **argel6767@gmail.com**
 
